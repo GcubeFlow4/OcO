@@ -673,12 +673,26 @@
         "minecraftsteve": {
             "name": "STEVE",
             "author": "Newkem",
-            "desc": "with help from GCube and BlueFan77",
+            "desc": "with help from Gcube and BlueFan77",
             "url": "../src/skins/minecraftsteve.png",
             "icon": "../src/skins/icons/minecraftsteve.png",
             "version": ["1.4.4", "1.4.5"],
             "tags": ["community"],
             "replaces": "french",
+            "defaultSettings": {
+                "favorite": false,
+                "using": false
+            }
+        },
+        "Gcube": {
+            "name": "GcubeFlow4",
+            "author": "GcubeFlow4",
+            "desc": "",
+            "url": "../src/skins/GcubeFlow4.png",
+            "icon": "../src/skins/icons/GcubeFlow4.png",
+            "version": [ "1.4.3", "1.4.4", "1.4.5"],
+            "tags": ["community"],
+            "replaces": "fl1ckd",
             "defaultSettings": {
                 "favorite": false,
                 "using": false
