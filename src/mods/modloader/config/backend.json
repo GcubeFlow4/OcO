@@ -691,7 +691,7 @@
             "url": "../src/skins/GcubeFlow4.png",
             "icon": "../src/skins/icons/GcubeFlow4.png",
             "version": [ "1.4.3", "1.4.4", "1.4.5"],
-            "tags": ["community"],
+            "tags": ["community", "speedruners"],
             "replaces": "fl1ckd",
             "defaultSettings": {
                 "favorite": false,
