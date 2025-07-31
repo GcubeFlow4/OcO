@@ -687,12 +687,26 @@
         "Gcube": {
             "name": "GcubeFlow4",
             "author": "GcubeFlow4",
-            "desc": "",
+            "desc": "Speedcuber who is also an OvO speedrun.com moderator",
             "url": "../src/skins/GcubeFlow4.png",
             "icon": "../src/skins/icons/GcubeFlow4.png",
-            "version": [ "1.4.3", "1.4.4", "1.4.5"],
-            "tags": ["community", "speedruners"],
+            "version": ["1.4", "1.4.3", "1.4.4", "1.4.5"],
+            "tags": ["community"],
             "replaces": "fl1ckd",
+            "defaultSettings": {
+                "favorite": false,
+                "using": false
+            }
+        },       
+        "REDAMMAIL": {
+            "name": "REDAMMAIL74",
+            "author": "REDAMMAIL74",
+            "desc": "With some help from Gcube",
+            "url": "../src/skins/REDAMMAIL74.png",
+            "icon": "../src/skins/icons/REDAMMAIL74.png",
+            "version": ["1.4", "1.4.2", "1.4.3", "1.4.4", "1.4.5"],
+            "tags": ["community"],
+            "replaces": "thefall",
             "defaultSettings": {
                 "favorite": false,
                 "using": false
