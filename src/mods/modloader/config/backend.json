@@ -691,7 +691,7 @@
             "url": "../src/skins/GcubeFlow4.png",
             "icon": "../src/skins/icons/GcubeFlow4.png",
             "version": ["1.4", "1.4.3", "1.4.4", "1.4.5"],
-            "tags": ["community"],
+            "tags": ["community", "speedy"],
             "replaces": "fl1ckd",
             "defaultSettings": {
                 "favorite": false,
@@ -705,8 +705,22 @@
             "url": "../src/skins/REDAMMAIL74.png",
             "icon": "../src/skins/icons/REDAMMAIL74.png",
             "version": ["1.4", "1.4.2", "1.4.3", "1.4.4", "1.4.5"],
-            "tags": ["community"],
+            "tags": ["community", "speedy"],
             "replaces": "thefall",
+            "defaultSettings": {
+                "favorite": false,
+                "using": false
+            }
+        },
+        "Glitch": {
+            "name": "The Glitch",
+            "author": "GcubeFlow4",
+            "desc": "",
+            "url": "../src/skins/glitch.png",
+            "icon": "../src/skins/icons/glitch.png",
+            "version": ["1.4", "1.4.2", "1.4.3", "1.4.4", "1.4.5"],
+            "tags": ["community"],
+            "replaces": "ada",
             "defaultSettings": {
                 "favorite": false,
                 "using": false
