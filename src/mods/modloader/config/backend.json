@@ -243,7 +243,7 @@
             "url": "../src/skins/ada.png",
             "icon": "../src/skins/icons/ada.png",
             "version": ["1.4", "1.4.2", "1.4.3", "1.4.4", "1.4.5"],
-            "tags": ["official"],
+            "tags": ["official", "speedy"],
             "replaces": "ada",
             "defaultSettings": {
                 "favorite": false,
@@ -285,7 +285,7 @@
             "url": "../src/skins/materwelon.png",
             "icon": "../src/skins/icons/materwelon.png",
             "version": ["1.4.2", "1.4.3", "1.4.4", "1.4.5"],
-            "tags": ["official"],
+            "tags": ["official", "speedy"],
             "replaces": "materwelon",
             "defaultSettings": {
                 "favorite": false,
@@ -299,7 +299,7 @@
             "url": "../src/skins/fl1ckd.png",
             "icon": "../src/skins/icons/fl1ckd.png",
             "version": [ "1.4.3", "1.4.4", "1.4.5"],
-            "tags": ["official"],
+            "tags": ["official", "speedy"],
             "replaces": "fl1ckd",
             "defaultSettings": {
                 "favorite": false,
@@ -313,7 +313,7 @@
             "url": "../src/skins/theliljoker.png",
             "icon": "../src/skins/icons/theliljoker.png",
             "version": ["1.4.3", "1.4.4", "1.4.5"],
-            "tags": ["official"],
+            "tags": ["official", "speedy"],
             "replaces": "theliljoker",
             "defaultSettings": {
                 "favorite": false,
@@ -411,7 +411,7 @@
             "url": "../src/skins/shyguy.png",
             "icon": "../src/skins/icons/shyguy.png",
             "version": ["1.4.4", "1.4.5"],
-            "tags": ["official"],
+            "tags": ["official", "speedy"],
             "replaces": "shyguy",
             "defaultSettings": {
                 "favorite": false,
@@ -425,7 +425,7 @@
             "url": "../src/skins/ctd.png",
             "icon": "../src/skins/icons/ctd.png",
             "version": ["1.4.5"],
-            "tags": ["official"],
+            "tags": ["official", "speedy"],
             "replaces": "ctd",
             "defaultSettings": {
                 "favorite": false,
@@ -439,7 +439,7 @@
             "url": "../src/skins/annihilazer.png",
             "icon": "../src/skins/icons/annihilazer.png",
             "version": ["1.4.5"],
-            "tags": ["official"],
+            "tags": ["official", "speedy"],
             "replaces": "annihilazer",
             "defaultSettings": {
                 "favorite": false,
@@ -704,6 +704,20 @@
             "desc": "With some help from Gcube",
             "url": "../src/skins/REDAMMAIL74.png",
             "icon": "../src/skins/icons/REDAMMAIL74.png",
+            "version": ["1.4", "1.4.2", "1.4.3", "1.4.4", "1.4.5"],
+            "tags": ["community", "speedy"],
+            "replaces": "thefall",
+            "defaultSettings": {
+                "favorite": false,
+                "using": false
+            }
+        },
+        "GamingPrime": {
+            "name": "GamingPrime",
+            "author": "GcubeFlow4",
+            "desc": "The Glorious 1.4.4 Any% WR Holder with a 6:07, GamingPrime",
+            "url": "../src/skins/GamingPrime.png",
+            "icon": "../src/skins/icons/GamingPrime.png",
             "version": ["1.4", "1.4.2", "1.4.3", "1.4.4", "1.4.5"],
             "tags": ["community", "speedy"],
             "replaces": "thefall",
