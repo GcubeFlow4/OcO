@@ -726,6 +726,20 @@
                 "using": false
             }
         },
+        "Newkem": {
+            "name": "Newkem",
+            "author": "Newkem",
+            "desc": "The Third Worst Thing to happen to those Orphans",
+            "url": "../src/skins/Newkem.png",
+            "icon": "../src/skins/icons/Newkem.png",
+            "version": ["1.4", "1.4.2", "1.4.3", "1.4.4", "1.4.5"],
+            "tags": ["community", "speedy"],
+            "replaces": "dknight",
+            "defaultSettings": {
+                "favorite": false,
+                "using": false
+            }
+        },
         "Glitch": {
             "name": "The Glitch",
             "author": "GcubeFlow4",
