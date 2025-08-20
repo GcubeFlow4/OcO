@@ -1413,6 +1413,23 @@
                 "enabled": false
             }
         },
+        "2000cc": {
+            "name": "2000cc",
+            "author": "Awesomeguy",
+            "desc": "Gotta Go Fast!",
+            "url": "../src/mods/modloader/2000cc.js",
+            "icon": "../src/img/mods/stateGUI.png",
+            "platform": ["pc", "mobile"],
+            "version": ["1.4", "1.4.4", "CTLE"],
+            "tags": ["hacks"],
+            "reload": true,
+            "settings": null,
+            "defaultSettings": {
+                "settings": null,
+                "favorite": false,
+                "enabled": false
+            }
+        },
         "community": {
             "name": "Community",
             "author": "Awesomeguy",
@@ -1436,28 +1453,11 @@
                 },
                 "favorite": false,
                 "enabled": false
-            },        
-            "2000cc": {
-            "name": "2000cc",
-            "author": null,
-            "desc": "Gotta Go Fast!",
-            "url": "../src/mods/modloader/2000cc.js",
-            "icon": "../src/img/mods/stateGUI.png",
-            "platform": ["pc", "mobile"],
-            "version": ["1.4", "1.4.4", "CTLE"],
-            "tags": ["hacks"],
-            "reload": true,
-            "settings": null,
-            "defaultSettings": {
-                "settings": null,
-                "favorite": false,
-                "enabled": false
             }
 
         }
     }
 }
-
-
-
     
+
+
