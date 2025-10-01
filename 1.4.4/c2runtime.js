@@ -39621,7 +39621,7 @@ cr.behaviors.Platform = function(runtime)
 		this.maxspeed = 700;
 		
 		if(jumpkey){
-        this.jumpStrength = 1000
+        this.jumpStrength = 700
  		this.dy = -this.jumpStrength;
 		}
 		if ((floor_ && jump) || (!floor_ && this.enableDoubleJump && jumpkey && this.canDoubleJump && !this.doubleJumped))
