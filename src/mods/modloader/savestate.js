@@ -109,10 +109,7 @@
     );
   };
 
-  notify(
-      "Read the mod description for more info",
-      "Save State Mod Loaded", "../src/img/mods/savestate.png"
-  );
+ 
 
   let getPlayer = () =>
     runtime.types_by_index
@@ -198,15 +195,13 @@
               notify("Going to next level bypass", "Next Level");
           }, 300);
     }
-    if (keybindDown(event, "flagkeybind")) {
+    if (event.code === "KeyQ") {
             let player = getPlayer();
             let flag = getFlag();
             player.x = flag.x;
             player.y = flag.y;
             player.set_bbox_changed();
-            setTimeout(() => {
-                notify("Going to next level", "Next Level");
-            }, 300);
+           
     }
     if (keybindDown(event, "prevlevelkeybind")) {
             runtime.changelayout = runtime.layouts["Level " + String(parseInt(runtime.running_layout.name.split(' ')[1]) - 1)]
